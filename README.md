@@ -1,2 +1,2 @@
 # MA4110-NT_Codes
-Codes of Numerical Techniques Lab
+Codes for Numerical Techniques Lab written in `c` `c++`

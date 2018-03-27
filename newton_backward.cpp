@@ -16,6 +16,7 @@ using std::cin;
 using std::cout;
 using std::endl;
 double abserr = 0.0001;
+
 int main()
 {
 	cout << "Enter no of data items: ";
